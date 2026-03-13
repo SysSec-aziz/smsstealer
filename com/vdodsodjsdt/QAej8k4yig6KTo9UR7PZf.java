@@ -1,0 +1,15 @@
+package com.vdodsodjsdt;
+
+import java.util.Random;
+import java.util.concurrent.ThreadLocalRandom;
+
+/* JADX INFO: compiled from: r8-map-id-3f77bbef96f83a8bf86e140490b9d41fcf0723d2c79bd2f3f370cb94135e1be4 */
+/* JADX INFO: loaded from: classes.dex */
+public final class QAej8k4yig6KTo9UR7PZf extends vmZtTJzdHHijKcwQjnkTuR {
+    @Override // com.vdodsodjsdt.vmZtTJzdHHijKcwQjnkTuR
+    public final Random VxUQ9tBhpHJ2AAEDNW8sghc4m() {
+        ThreadLocalRandom threadLocalRandomCurrent = ThreadLocalRandom.current();
+        ej6unYlOWMDF.h3jnZRsdwYJfY9UhQCkbvWciwvFHv(threadLocalRandomCurrent, "current(...)");
+        return threadLocalRandomCurrent;
+    }
+}

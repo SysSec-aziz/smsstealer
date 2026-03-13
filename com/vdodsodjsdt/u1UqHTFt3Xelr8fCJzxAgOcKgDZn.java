@@ -1,0 +1,15 @@
+package com.vdodsodjsdt;
+
+/* JADX INFO: compiled from: r8-map-id-3f77bbef96f83a8bf86e140490b9d41fcf0723d2c79bd2f3f370cb94135e1be4 */
+/* JADX INFO: loaded from: classes.dex */
+public final class u1UqHTFt3Xelr8fCJzxAgOcKgDZn extends ej6unYlOWMDF {
+    public final Throwable KUYypEB4eNWOZWVDpH;
+
+    public u1UqHTFt3Xelr8fCJzxAgOcKgDZn(Throwable th) {
+        this.KUYypEB4eNWOZWVDpH = th;
+    }
+
+    public final String toString() {
+        return "FAILURE (" + this.KUYypEB4eNWOZWVDpH.getMessage() + ")";
+    }
+}

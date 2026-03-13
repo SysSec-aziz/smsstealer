@@ -1,0 +1,16 @@
+package com.vdodsodjsdt;
+
+import android.text.PrecomputedText;
+import android.text.TextPaint;
+
+/* JADX INFO: compiled from: r8-map-id-3f77bbef96f83a8bf86e140490b9d41fcf0723d2c79bd2f3f370cb94135e1be4 */
+/* JADX INFO: loaded from: classes.dex */
+public abstract /* synthetic */ class nQSfo8KBISNjPGeZ {
+    public static /* synthetic */ PrecomputedText.Params.Builder NSjgqmGjEzuugn2SsG1mZFP(TextPaint textPaint) {
+        return new PrecomputedText.Params.Builder(textPaint);
+    }
+
+    public static /* bridge */ /* synthetic */ boolean TaDO7ogis3aEiWEtq(CharSequence charSequence) {
+        return charSequence instanceof PrecomputedText;
+    }
+}
